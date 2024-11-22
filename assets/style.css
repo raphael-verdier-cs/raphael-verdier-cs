@@ -1,0 +1,8 @@
+:root {
+  --background-image: url('https://picsum.photos/400/500');
+  .test-img {
+    background-image: var(--background-image);
+    width: 400px; 
+    height: 500px;
+  }
+}
